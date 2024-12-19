@@ -1,4 +1,4 @@
-# ananyajagdishprojects
+# java projects
 
 ## Web Page Generator
 This project invloves developing a set of classes that will support the generation of HTML for web pages.The WebPage class in this project represents a web page and will put together all the different *elements.  This class implements the Comparable interface. 
